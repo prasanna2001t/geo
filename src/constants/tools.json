@@ -1,0 +1,28 @@
+{
+  "tools": [
+    {
+      "name": "Company info",
+      "iconUrl": "./images/info.svg",
+      "param": "load",
+      "path": "/load"
+    },
+    {
+      "name": "Visualisation",
+      "iconUrl": "./images/visualise.svg",
+      "param": "load",
+      "path": "/load"
+    },
+    {
+      "name": "Marking AOI and Land Cover",
+      "iconUrl": "./images/AOI.svg",
+      "param": "identify",
+      "path": "/identify"
+    },
+    {
+      "name": "Export",
+      "iconUrl": "./images/export.svg",
+      "param": "sum",
+      "path": "/sum"
+    }]
+  }
+   
